@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closere",
+  "version": "1.0.0",
+  "description": "Curso de scope de javascript platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waruiaoshi/curso-scope-closere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waruiaoshi/curso-scope-closere/issues"
+  },
+  "homepage": "https://github.com/waruiaoshi/curso-scope-closere#readme"
+}
