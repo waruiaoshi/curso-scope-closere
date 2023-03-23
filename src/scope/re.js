@@ -25,3 +25,9 @@ animal='Perro';  // no se puede reasignar o redeclarar
 
 
 console.log(animal);
+
+const vehiculos = [];
+vehiculos.push("un carro");
+console.log(vehiculos);
+vehiculos.pop();
+console.log(vehiculos);
